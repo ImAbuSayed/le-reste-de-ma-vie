@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/le-reste-de-ma-vie/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Le Reste De Ma Vie](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-reste-de-ma-vie/) |
+| **Get License** | [License this song: Le Reste De Ma Vie](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-reste-de-ma-vie/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `91cb9879f05892346280703e8f1f63a79d3e83a432734f1b942fb7b46ed3a075` |
 | **Timestamp** | June 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
